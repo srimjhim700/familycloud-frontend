@@ -35,7 +35,7 @@ function App() {
   return(
     <Router>
       <Routes>
-        <Route path='/' element = {<Home/>}></Route>
+        <Route path='/' element = {<Form/>}></Route>
         <Route path = '/photodump' element= {<PhotoDump/>}></Route>
         <Route path = '/connectlaptop' element= {<ConnectLaptop/>}> </Route>
         <Route path = '/task' element= {<Task/>}> </Route>
