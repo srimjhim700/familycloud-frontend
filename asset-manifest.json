@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/familycloud-frontend/static/css/main.5649a5db.css",
-    "main.js": "/familycloud-frontend/static/js/main.a4a7b9a8.js",
+    "main.js": "/familycloud-frontend/static/js/main.35bd1177.js",
     "static/js/453.ed3810f9.chunk.js": "/familycloud-frontend/static/js/453.ed3810f9.chunk.js",
     "static/media/cloud.png": "/familycloud-frontend/static/media/cloud.5477d280fb29b6950a7a.png",
     "static/media/wallpaper-login.jpg": "/familycloud-frontend/static/media/wallpaper-login.f91cc609cc3d3ea1346d.jpg",
@@ -9,11 +9,11 @@
     "static/media/blue-arrow.webp": "/familycloud-frontend/static/media/blue-arrow.bfcccdd875924ac1a97f.webp",
     "index.html": "/familycloud-frontend/index.html",
     "main.5649a5db.css.map": "/familycloud-frontend/static/css/main.5649a5db.css.map",
-    "main.a4a7b9a8.js.map": "/familycloud-frontend/static/js/main.a4a7b9a8.js.map",
+    "main.35bd1177.js.map": "/familycloud-frontend/static/js/main.35bd1177.js.map",
     "453.ed3810f9.chunk.js.map": "/familycloud-frontend/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5649a5db.css",
-    "static/js/main.a4a7b9a8.js"
+    "static/js/main.35bd1177.js"
   ]
 }
